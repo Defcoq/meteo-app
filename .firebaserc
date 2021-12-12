@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "meteo-app-ca42a": {
+      "hosting": {
+        "meteo-app": [
+          "meteo-app-ca42a"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "meteo-app-ca42a"
+  }
+}
